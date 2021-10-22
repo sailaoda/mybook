@@ -22,10 +22,10 @@
             ]
         },
         "sitemap-general": {
-            "prefix": "https://cyberzhg.gitbooks.io/clrs/content/"
+            "prefix": "https://github.com/sailaoda/mybook/blob/gh-pages/sitemap.xml"
         },
         "toolbar-button": {
-            "url": "http://book.crifan.com/books/http_summary/pdf/http_summary.pdf",
+            "url": "https://github.com/sailaoda/mybook/blob/main/book.pdf",
             "icon": "fa-file-pdf-o",
             "label": "下载PDF"
         },
@@ -103,7 +103,8 @@
         "root": "./src",
         "links": {
             "sidebar": {
-            "主页": "https://www.hackerwu.cn"
+            "我的博客": "https://www.hackerwu.cn",
+            "GitHub": "https://github.com/sailaoda"
             }
         },
         "plugins": [
