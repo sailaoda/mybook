@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url> <loc>https://github.com/sailaoda/mybook/blob/gh-pages/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>https://github.com/sailaoda/mybook/blob/gh-pages/chapter_1/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>https://github.com/sailaoda/mybook/blob/gh-pages/chapter_2/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>https://github.com/sailaoda/mybook/blob/gh-pages/chapter_2/ch2_section_1.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>https://github.com/sailaoda/mybook/blob/gh-pages/chapter_2/ch2_section_2.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>https://github.com/sailaoda/mybook/blob/gh-pages/chapter_3/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>https://github.com/sailaoda/mybook/blob/gh-pages/chapter_3/ch3_structure_list.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>https://github.com/sailaoda/mybook/blob/gh-pages/chapter_3/ch3_hint_callout.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>https://github.com/sailaoda/mybook/blob/gh-pages/chapter_3/ch3_code_highlight.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>https://github.com/sailaoda/mybook/blob/gh-pages/appendix/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>https://github.com/sailaoda/mybook/blob/gh-pages/appendix/reference.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://github.com/sailaoda/mybook/blob/gh-pages/第一部分：介绍/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://github.com/sailaoda/mybook/blob/gh-pages/第二部分：开始/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://github.com/sailaoda/mybook/blob/gh-pages/第二部分：开始/关于我.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://github.com/sailaoda/mybook/blob/gh-pages/第二部分：开始/帅哥.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://github.com/sailaoda/mybook/blob/gh-pages/第二部分：开始/照片测试.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://github.com/sailaoda/mybook/blob/gh-pages/第三部分：例子/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://github.com/sailaoda/mybook/blob/gh-pages/第三部分：例子/代码高亮.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://github.com/sailaoda/mybook/blob/gh-pages/第三部分：例子/提示和插图风格.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://github.com/sailaoda/mybook/blob/gh-pages/第三部分：例子/结构列表.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://github.com/sailaoda/mybook/blob/gh-pages/howtouse/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://github.com/sailaoda/mybook/blob/gh-pages/howtouse/nodejsinstall.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://github.com/sailaoda/mybook/blob/gh-pages/howtouse/gitbookinstall.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://github.com/sailaoda/mybook/blob/gh-pages/howtouse/gitbookcli.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://github.com/sailaoda/mybook/blob/gh-pages/book/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://github.com/sailaoda/mybook/blob/gh-pages/book/file.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://github.com/sailaoda/mybook/blob/gh-pages/book/prjinit.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://github.com/sailaoda/mybook/blob/gh-pages/output/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://github.com/sailaoda/mybook/blob/gh-pages/output/outfile.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://github.com/sailaoda/mybook/blob/gh-pages/output/pdfandebook.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://github.com/sailaoda/mybook/blob/gh-pages/publish/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://github.com/sailaoda/mybook/blob/gh-pages/publish/gitpages.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://github.com/sailaoda/mybook/blob/gh-pages/end/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://github.com/sailaoda/mybook/blob/gh-pages/附录/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://github.com/sailaoda/mybook/blob/gh-pages/附录/reference.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 </urlset>
