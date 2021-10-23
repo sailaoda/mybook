@@ -35,7 +35,16 @@
                 }
             ]
         },
-
+		
+		"image-captions": {
+          "caption": "Image _PAGE_LEVEL_._PAGE_IMAGE_NUMBER_ - _CAPTION_"
+		},
+		"autotheme": {
+          "white": [9, 10, 11, 12, 13, 14, 15, 16],
+          "sepia": [6, 7, 8, 17, 18, 19],
+          "night": [20, 21, 22, 23, 0, 1, 2, 3, 4, 5]
+        },
+		
         "sitemap-general": {
             "prefix": "https://github.com/sailaoda/mybook/blob/gh-pages/sitemap.xml"
         },
@@ -135,7 +144,9 @@
         "copy-code-button",
         "callouts",
         "toolbar-button",
-        "multipart"
+		"image-captions",
+        "multipart",
+		"autotheme"
     ]
     
 }
